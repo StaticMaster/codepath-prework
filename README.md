@@ -7,7 +7,7 @@ Submitted by: **Gikai Andrews**
 
 Time spent: **10** hours spent in total
 
-Link to project: (https://glitch.com/edit/#!/the-guessing-game)
+Link to project: (https://the-guessing-game.glitch.me)
 
 ## Required Functionality
 
